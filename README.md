@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/fredy-humberto-aristizabal-lopez/
-- 😄 Pronouns: ... he/his
+- 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I enjoy cultures 
 
