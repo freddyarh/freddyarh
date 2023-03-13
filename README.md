@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... zetifi
+- 🔭 I’m currently working on ... simplify IT
 - 🌱 I’m currently learning ... React Native and Docker 
 - 👯 I’m looking to collaborate on ... React, Angular, Vue, Node JS projects
 - 🤔 I’m looking for help with ... React Native
