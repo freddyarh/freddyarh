@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/fredy-humberto-aristizabal-lopez/
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I enjoy cultures 
+- ⚡ Fun fact: ... I love to travel and enjoy cultures
 
