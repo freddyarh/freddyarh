@@ -17,6 +17,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ### 🌐 Let’s Connect!  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen)](https://fredyaristizabal.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen)](https://www.fredyaristizabal.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/fredy-humberto-aristizabal-lopez/?locale=en_US)
 [![Instagram](https://img.shields.io/badge/-Instagram-red)](https://www.instagram.com/fredyaristizaballopez/)
