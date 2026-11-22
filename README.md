@@ -1,13 +1,12 @@
 Hi there, my name is Fredy Aristizabal!
 ======================================================================================================================================
 
-- 🔭 I’m currently working on ... Simplify IT
-- 🌱 I’m currently learning ... React Native and Docker 
+- 🔭 I’m currently working at ... Mars Inc and Freenlanzing
+- 🌱 I’m currently learning ... Python nad AI Automation 
 - 👯 I’m looking to collaborate on ... React, Angular, Vue, Node JS projects
-- 🤔 I’m looking for help with ... React Native
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I love to travel and enjoy cultures
+- ⚡ Fun fact: ... I love to learn, travel and enjoy cultures
 
 ### Skills
 
