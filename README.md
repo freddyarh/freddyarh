@@ -2,8 +2,8 @@ Hi there, my name is Fredy Aristizabal!
 ======================================================================================================================================
 
 - 🔭 I’m currently working at ... Mars Inc and Freenlanzing
-- 🌱 I’m currently learning ... Python nad AI Automation 
-- 👯 I’m looking to collaborate on ... React, Angular, Vue, Node JS projects
+- 🌱 I’m currently learning ... Python, AI Automation and LLMs
+- 👯 I’m looking to collaborate on ... React, Angular, Vue, Node JS, AI and LLMs projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I love to learn, travel and enjoy cultures
